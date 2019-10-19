@@ -10,7 +10,9 @@
   },
   "dependencies": {
     "@tensorflow/tfjs": "1.2.8",
-    "core-js": "^3.3.2",
+    "browserslist": "^4.7.1",
+    "caniuse-lite": "^1.0.30000999",
+    "core-js": "3",
     "vega-embed": "^3.30.0"
   },
   "scripts": {
